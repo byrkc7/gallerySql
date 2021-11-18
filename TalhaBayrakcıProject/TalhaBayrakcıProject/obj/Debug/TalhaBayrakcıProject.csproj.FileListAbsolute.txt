@@ -1,0 +1,10 @@
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\bin\Debug\TalhaBayrakcıProject.exe.config
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\bin\Debug\TalhaBayrakcıProject.exe
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\bin\Debug\TalhaBayrakcıProject.pdb
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\obj\Debug\TalhaBayrakcıProject.csprojAssemblyReference.cache
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\obj\Debug\TalhaBayrakcıProject.Form1.resources
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\obj\Debug\TalhaBayrakcıProject.Properties.Resources.resources
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\obj\Debug\TalhaBayrakcıProject.csproj.GenerateResource.cache
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\obj\Debug\TalhaBayrakcıProject.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\obj\Debug\TalhaBayrakcıProject.exe
+C:\Users\talha\source\repos\TalhaBayrakcıProject\TalhaBayrakcıProject\obj\Debug\TalhaBayrakcıProject.pdb
